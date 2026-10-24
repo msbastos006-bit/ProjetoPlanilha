@@ -1,7 +1,10 @@
 package projetoplanilha;
 
+import projetoplanilha.view.index;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        index seila = new index();
+        
     }
 }
